@@ -231,15 +231,6 @@ The project was tested for:
 - Scene transitions
 - Audio and sound effects
 
-## 👥 Team Contributions
-
-| Member | Student ID | Main Contribution |
-|---|---|---|
-| **[Member 1 Name]** | [Student ID] | Player & Combat System |
-| **[Member 2 Name]** | [Student ID] | Enemy & AI System |
-| **[Member 3 Name]** | [Student ID] | Level & Environment System |
-| **[Member 4 Name]** | [Student ID] | UI, Audio & Game Flow |
-
 ## 🚀 How to Run
 
 1. Clone or download this repository.
